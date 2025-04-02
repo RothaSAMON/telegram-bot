@@ -8,7 +8,7 @@
 </p>
 
 ## Important for Developement
-- To see the user with /satrt : https://api.telegram.org/bot7702733043:AAE_W-NlZVIF0MQeyqNG01LL1ALbPeCCOC0/getUpdates
+- To see the user with /start : https://api.telegram.org/bot7702733043:AAE_W-NlZVIF0MQeyqNG01LL1ALbPeCCOC0/getUpdates
 
 ## About Laravel
 
